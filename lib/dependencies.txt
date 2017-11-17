@@ -1,0 +1,6 @@
+
+
+1.  pip install conllu / pip3 install conllu   -- CoNLLU reader
+2.  udpipe/v1.2/                               -- binaries for UDpipe
+3.  syntaxnet/ 
+
